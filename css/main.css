@@ -1,0 +1,44 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	font-family: 'Sofia', cursive;
+	color: red;
+	text-align: center;
+}
+
+label {
+	font-family: Arial;
+	font-style: italic;
+}
+
+input {
+	font-family: Arial;
+	border-radius: 2px;
+	-webkit-appearance: none;
+	border: 1px solid #ccc;
+	padding: 7px;
+	width: 300px;
+	color: red;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#contenedor {
+	margin-top: 30px;
+}
+
+.contenedor-imagen {
+	width: 425px;
+	height: 450px;
+	display: inline-block;
+	margin: 0 10px 20px 10px;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
